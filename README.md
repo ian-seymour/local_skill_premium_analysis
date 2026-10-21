@@ -20,6 +20,8 @@ download the missing file (it is too large for GitHub's limits). The file can be
 
 https://www.bls.gov/oes/special-requests/oesm25all.zip
 
+BE SURE TO UNZIP THE O*NET DATABASE, it is currently zipped due to size.
+
 The remaining files can be found at these links if needed or if you wish to try with newer data as it comes out.
 
 https://www.onetcenter.org/dl_files/database/db_30_2_text.zip
