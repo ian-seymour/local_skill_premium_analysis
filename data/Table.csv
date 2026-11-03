@@ -1,0 +1,523 @@
+PARPP Regional price parities by portion
+(index)
+Metropolitan and nonmetropolitan portions
+GeoFIPS,GeoName,LineCode,Description,2024
+00000,United States,1,RPPs: All items,100.000
+00000,United States,2,"  RPPs: Goods",99.567
+00000,United States,3,"  RPPs: Services: Housing",100.629
+00000,United States,4,"  RPPs: Services: Utilities",98.441
+00000,United States,5,"  RPPs: Services: Other",100.147
+01998,Alabama (Metropolitan Portion),1,RPPs: All items,90.180
+01998,Alabama (Metropolitan Portion),2,"  RPPs: Goods",96.399
+01998,Alabama (Metropolitan Portion),3,"  RPPs: Services: Housing",66.814
+01998,Alabama (Metropolitan Portion),4,"  RPPs: Services: Utilities",84.365
+01998,Alabama (Metropolitan Portion),5,"  RPPs: Services: Other",96.715
+01999,Alabama (Nonmetropolitan Portion),1,RPPs: All items,83.231
+01999,Alabama (Nonmetropolitan Portion),2,"  RPPs: Goods",96.397
+01999,Alabama (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",45.117
+01999,Alabama (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",85.648
+01999,Alabama (Nonmetropolitan Portion),5,"  RPPs: Services: Other",96.693
+02998,Alaska (Metropolitan Portion),1,RPPs: All items,105.024
+02998,Alaska (Metropolitan Portion),2,"  RPPs: Goods",107.340
+02998,Alaska (Metropolitan Portion),3,"  RPPs: Services: Housing",106.607
+02998,Alaska (Metropolitan Portion),4,"  RPPs: Services: Utilities",113.314
+02998,Alaska (Metropolitan Portion),5,"  RPPs: Services: Other",103.342
+02999,Alaska (Nonmetropolitan Portion),1,RPPs: All items,96.217
+02999,Alaska (Nonmetropolitan Portion),2,"  RPPs: Goods",103.814
+02999,Alaska (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",72.158
+02999,Alaska (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",131.511
+02999,Alaska (Nonmetropolitan Portion),5,"  RPPs: Services: Other",99.437
+04998,Arizona (Metropolitan Portion),1,RPPs: All items,101.392
+04998,Arizona (Metropolitan Portion),2,"  RPPs: Goods",95.335
+04998,Arizona (Metropolitan Portion),3,"  RPPs: Services: Housing",111.055
+04998,Arizona (Metropolitan Portion),4,"  RPPs: Services: Utilities",92.323
+04998,Arizona (Metropolitan Portion),5,"  RPPs: Services: Other",102.902
+04999,Arizona (Nonmetropolitan Portion),1,RPPs: All items,81.659
+04999,Arizona (Nonmetropolitan Portion),2,"  RPPs: Goods",96.237
+04999,Arizona (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",43.926
+04999,Arizona (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",92.184
+04999,Arizona (Nonmetropolitan Portion),5,"  RPPs: Services: Other",99.838
+05998,Arkansas (Metropolitan Portion),1,RPPs: All items,89.041
+05998,Arkansas (Metropolitan Portion),2,"  RPPs: Goods",93.607
+05998,Arkansas (Metropolitan Portion),3,"  RPPs: Services: Housing",66.211
+05998,Arkansas (Metropolitan Portion),4,"  RPPs: Services: Utilities",74.704
+05998,Arkansas (Metropolitan Portion),5,"  RPPs: Services: Other",95.321
+05999,Arkansas (Nonmetropolitan Portion),1,RPPs: All items,82.953
+05999,Arkansas (Nonmetropolitan Portion),2,"  RPPs: Goods",93.577
+05999,Arkansas (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",46.575
+05999,Arkansas (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",74.774
+05999,Arkansas (Nonmetropolitan Portion),5,"  RPPs: Services: Other",95.295
+06998,California (Metropolitan Portion),1,RPPs: All items,110.927
+06998,California (Metropolitan Portion),2,"  RPPs: Goods",106.114
+06998,California (Metropolitan Portion),3,"  RPPs: Services: Housing",156.543
+06998,California (Metropolitan Portion),4,"  RPPs: Services: Utilities",159.042
+06998,California (Metropolitan Portion),5,"  RPPs: Services: Other",102.632
+06999,California (Nonmetropolitan Portion),1,RPPs: All items,100.037
+06999,California (Nonmetropolitan Portion),2,"  RPPs: Goods",105.168
+06999,California (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",87.235
+06999,California (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",153.776
+06999,California (Nonmetropolitan Portion),5,"  RPPs: Services: Other",100.267
+08998,Colorado (Metropolitan Portion),1,RPPs: All items,103.803
+08998,Colorado (Metropolitan Portion),2,"  RPPs: Goods",99.062
+08998,Colorado (Metropolitan Portion),3,"  RPPs: Services: Housing",133.562
+08998,Colorado (Metropolitan Portion),4,"  RPPs: Services: Utilities",85.581
+08998,Colorado (Metropolitan Portion),5,"  RPPs: Services: Other",99.588
+08999,Colorado (Nonmetropolitan Portion),1,RPPs: All items,97.505
+08999,Colorado (Nonmetropolitan Portion),2,"  RPPs: Goods",96.052
+08999,Colorado (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",97.134
+08999,Colorado (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",81.616
+08999,Colorado (Nonmetropolitan Portion),5,"  RPPs: Services: Other",99.822
+09998,Connecticut (Metropolitan Portion),1,RPPs: All items,103.953
+09998,Connecticut (Metropolitan Portion),2,"  RPPs: Goods",97.330
+09998,Connecticut (Metropolitan Portion),3,"  RPPs: Services: Housing",119.876
+09998,Connecticut (Metropolitan Portion),4,"  RPPs: Services: Utilities",146.185
+09998,Connecticut (Metropolitan Portion),5,"  RPPs: Services: Other",102.658
+09999,Connecticut (Nonmetropolitan Portion),1,RPPs: All items,97.941
+09999,Connecticut (Nonmetropolitan Portion),2,"  RPPs: Goods",97.330
+09999,Connecticut (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",78.546
+09999,Connecticut (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",152.116
+09999,Connecticut (Nonmetropolitan Portion),5,"  RPPs: Services: Other",102.658
+10998,Delaware (Metropolitan Portion),1,RPPs: All items,101.105
+10998,Delaware (Metropolitan Portion),2,"  RPPs: Goods",96.073
+10998,Delaware (Metropolitan Portion),3,"  RPPs: Services: Housing",107.656
+10998,Delaware (Metropolitan Portion),4,"  RPPs: Services: Utilities",106.792
+10998,Delaware (Metropolitan Portion),5,"  RPPs: Services: Other",102.198
+10999,Delaware (Nonmetropolitan Portion),1,RPPs: All items,0.000
+10999,Delaware (Nonmetropolitan Portion),2,"  RPPs: Goods",0.000
+10999,Delaware (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",0.000
+10999,Delaware (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",0.000
+10999,Delaware (Nonmetropolitan Portion),5,"  RPPs: Services: Other",0.000
+11998,District of Columbia (Metropolitan Portion),1,RPPs: All items,109.901
+11998,District of Columbia (Metropolitan Portion),2,"  RPPs: Goods",106.502
+11998,District of Columbia (Metropolitan Portion),3,"  RPPs: Services: Housing",154.984
+11998,District of Columbia (Metropolitan Portion),4,"  RPPs: Services: Utilities",112.821
+11998,District of Columbia (Metropolitan Portion),5,"  RPPs: Services: Other",102.964
+11999,District of Columbia (Nonmetropolitan Portion),1,RPPs: All items,0.000
+11999,District of Columbia (Nonmetropolitan Portion),2,"  RPPs: Goods",0.000
+11999,District of Columbia (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",0.000
+11999,District of Columbia (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",0.000
+11999,District of Columbia (Nonmetropolitan Portion),5,"  RPPs: Services: Other",0.000
+12998,Florida (Metropolitan Portion),1,RPPs: All items,103.648
+12998,Florida (Metropolitan Portion),2,"  RPPs: Goods",98.101
+12998,Florida (Metropolitan Portion),3,"  RPPs: Services: Housing",123.425
+12998,Florida (Metropolitan Portion),4,"  RPPs: Services: Utilities",90.152
+12998,Florida (Metropolitan Portion),5,"  RPPs: Services: Other",101.381
+12999,Florida (Nonmetropolitan Portion),1,RPPs: All items,93.951
+12999,Florida (Nonmetropolitan Portion),2,"  RPPs: Goods",96.240
+12999,Florida (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",80.711
+12999,Florida (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",87.290
+12999,Florida (Nonmetropolitan Portion),5,"  RPPs: Services: Other",98.864
+13998,Georgia (Metropolitan Portion),1,RPPs: All items,97.839
+13998,Georgia (Metropolitan Portion),2,"  RPPs: Goods",99.333
+13998,Georgia (Metropolitan Portion),3,"  RPPs: Services: Housing",97.276
+13998,Georgia (Metropolitan Portion),4,"  RPPs: Services: Utilities",93.684
+13998,Georgia (Metropolitan Portion),5,"  RPPs: Services: Other",97.152
+13999,Georgia (Nonmetropolitan Portion),1,RPPs: All items,86.984
+13999,Georgia (Nonmetropolitan Portion),2,"  RPPs: Goods",96.309
+13999,Georgia (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",53.233
+13999,Georgia (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",88.613
+13999,Georgia (Nonmetropolitan Portion),5,"  RPPs: Services: Other",98.646
+15998,Hawaii (Metropolitan Portion),1,RPPs: All items,110.748
+15998,Hawaii (Metropolitan Portion),2,"  RPPs: Goods",111.562
+15998,Hawaii (Metropolitan Portion),3,"  RPPs: Services: Housing",132.683
+15998,Hawaii (Metropolitan Portion),4,"  RPPs: Services: Utilities",187.706
+15998,Hawaii (Metropolitan Portion),5,"  RPPs: Services: Other",102.898
+15999,Hawaii (Nonmetropolitan Portion),1,RPPs: All items,106.376
+15999,Hawaii (Nonmetropolitan Portion),2,"  RPPs: Goods",111.562
+15999,Hawaii (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",103.029
+15999,Hawaii (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",203.388
+15999,Hawaii (Nonmetropolitan Portion),5,"  RPPs: Services: Other",102.898
+16998,Idaho (Metropolitan Portion),1,RPPs: All items,96.747
+16998,Idaho (Metropolitan Portion),2,"  RPPs: Goods",96.179
+16998,Idaho (Metropolitan Portion),3,"  RPPs: Services: Housing",96.592
+16998,Idaho (Metropolitan Portion),4,"  RPPs: Services: Utilities",70.477
+16998,Idaho (Metropolitan Portion),5,"  RPPs: Services: Other",98.974
+16999,Idaho (Nonmetropolitan Portion),1,RPPs: All items,91.864
+16999,Idaho (Nonmetropolitan Portion),2,"  RPPs: Goods",96.716
+16999,Idaho (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",74.380
+16999,Idaho (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",70.357
+16999,Idaho (Nonmetropolitan Portion),5,"  RPPs: Services: Other",99.141
+17998,Illinois (Metropolitan Portion),1,RPPs: All items,101.522
+17998,Illinois (Metropolitan Portion),2,"  RPPs: Goods",105.071
+17998,Illinois (Metropolitan Portion),3,"  RPPs: Services: Housing",102.080
+17998,Illinois (Metropolitan Portion),4,"  RPPs: Services: Utilities",84.091
+17998,Illinois (Metropolitan Portion),5,"  RPPs: Services: Other",100.228
+17999,Illinois (Nonmetropolitan Portion),1,RPPs: All items,87.420
+17999,Illinois (Nonmetropolitan Portion),2,"  RPPs: Goods",93.661
+17999,Illinois (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",50.249
+17999,Illinois (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",90.499
+17999,Illinois (Nonmetropolitan Portion),5,"  RPPs: Services: Other",99.497
+18998,Indiana (Metropolitan Portion),1,RPPs: All items,94.490
+18998,Indiana (Metropolitan Portion),2,"  RPPs: Goods",95.785
+18998,Indiana (Metropolitan Portion),3,"  RPPs: Services: Housing",79.416
+18998,Indiana (Metropolitan Portion),4,"  RPPs: Services: Utilities",85.344
+18998,Indiana (Metropolitan Portion),5,"  RPPs: Services: Other",99.156
+18999,Indiana (Nonmetropolitan Portion),1,RPPs: All items,88.657
+18999,Indiana (Nonmetropolitan Portion),2,"  RPPs: Goods",94.347
+18999,Indiana (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",56.133
+18999,Indiana (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",86.263
+18999,Indiana (Nonmetropolitan Portion),5,"  RPPs: Services: Other",99.096
+19998,Iowa (Metropolitan Portion),1,RPPs: All items,89.963
+19998,Iowa (Metropolitan Portion),2,"  RPPs: Goods",93.730
+19998,Iowa (Metropolitan Portion),3,"  RPPs: Services: Housing",75.638
+19998,Iowa (Metropolitan Portion),4,"  RPPs: Services: Utilities",83.924
+19998,Iowa (Metropolitan Portion),5,"  RPPs: Services: Other",92.927
+19999,Iowa (Nonmetropolitan Portion),1,RPPs: All items,84.077
+19999,Iowa (Nonmetropolitan Portion),2,"  RPPs: Goods",93.730
+19999,Iowa (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",51.024
+19999,Iowa (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",82.394
+19999,Iowa (Nonmetropolitan Portion),5,"  RPPs: Services: Other",92.927
+20998,Kansas (Metropolitan Portion),1,RPPs: All items,91.532
+20998,Kansas (Metropolitan Portion),2,"  RPPs: Goods",94.027
+20998,Kansas (Metropolitan Portion),3,"  RPPs: Services: Housing",79.045
+20998,Kansas (Metropolitan Portion),4,"  RPPs: Services: Utilities",88.691
+20998,Kansas (Metropolitan Portion),5,"  RPPs: Services: Other",93.816
+20999,Kansas (Nonmetropolitan Portion),1,RPPs: All items,85.920
+20999,Kansas (Nonmetropolitan Portion),2,"  RPPs: Goods",94.027
+20999,Kansas (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",54.015
+20999,Kansas (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",87.836
+20999,Kansas (Nonmetropolitan Portion),5,"  RPPs: Services: Other",93.816
+21998,Kentucky (Metropolitan Portion),1,RPPs: All items,92.608
+21998,Kentucky (Metropolitan Portion),2,"  RPPs: Goods",95.865
+21998,Kentucky (Metropolitan Portion),3,"  RPPs: Services: Housing",75.088
+21998,Kentucky (Metropolitan Portion),4,"  RPPs: Services: Utilities",75.478
+21998,Kentucky (Metropolitan Portion),5,"  RPPs: Services: Other",97.386
+21999,Kentucky (Nonmetropolitan Portion),1,RPPs: All items,85.252
+21999,Kentucky (Nonmetropolitan Portion),2,"  RPPs: Goods",96.191
+21999,Kentucky (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",48.579
+21999,Kentucky (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",75.034
+21999,Kentucky (Nonmetropolitan Portion),5,"  RPPs: Services: Other",96.955
+22998,Louisiana (Metropolitan Portion),1,RPPs: All items,89.149
+22998,Louisiana (Metropolitan Portion),2,"  RPPs: Goods",93.691
+22998,Louisiana (Metropolitan Portion),3,"  RPPs: Services: Housing",67.189
+22998,Louisiana (Metropolitan Portion),4,"  RPPs: Services: Utilities",71.456
+22998,Louisiana (Metropolitan Portion),5,"  RPPs: Services: Other",95.705
+22999,Louisiana (Nonmetropolitan Portion),1,RPPs: All items,82.470
+22999,Louisiana (Nonmetropolitan Portion),2,"  RPPs: Goods",93.756
+22999,Louisiana (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",43.360
+22999,Louisiana (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",71.499
+22999,Louisiana (Nonmetropolitan Portion),5,"  RPPs: Services: Other",95.710
+23998,Maine (Metropolitan Portion),1,RPPs: All items,100.307
+23998,Maine (Metropolitan Portion),2,"  RPPs: Goods",97.171
+23998,Maine (Metropolitan Portion),3,"  RPPs: Services: Housing",94.936
+23998,Maine (Metropolitan Portion),4,"  RPPs: Services: Utilities",134.597
+23998,Maine (Metropolitan Portion),5,"  RPPs: Services: Other",103.191
+23999,Maine (Nonmetropolitan Portion),1,RPPs: All items,91.645
+23999,Maine (Nonmetropolitan Portion),2,"  RPPs: Goods",97.171
+23999,Maine (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",61.398
+23999,Maine (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",136.090
+23999,Maine (Nonmetropolitan Portion),5,"  RPPs: Services: Other",103.191
+24998,Maryland (Metropolitan Portion),1,RPPs: All items,105.547
+24998,Maryland (Metropolitan Portion),2,"  RPPs: Goods",102.795
+24998,Maryland (Metropolitan Portion),3,"  RPPs: Services: Housing",124.632
+24998,Maryland (Metropolitan Portion),4,"  RPPs: Services: Utilities",111.393
+24998,Maryland (Metropolitan Portion),5,"  RPPs: Services: Other",101.711
+24999,Maryland (Nonmetropolitan Portion),1,RPPs: All items,93.238
+24999,Maryland (Nonmetropolitan Portion),2,"  RPPs: Goods",96.592
+24999,Maryland (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",76.184
+24999,Maryland (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",103.022
+24999,Maryland (Nonmetropolitan Portion),5,"  RPPs: Services: Other",98.995
+25998,Massachusetts (Metropolitan Portion),1,RPPs: All items,105.870
+25998,Massachusetts (Metropolitan Portion),2,"  RPPs: Goods",98.846
+25998,Massachusetts (Metropolitan Portion),3,"  RPPs: Services: Housing",129.017
+25998,Massachusetts (Metropolitan Portion),4,"  RPPs: Services: Utilities",151.972
+25998,Massachusetts (Metropolitan Portion),5,"  RPPs: Services: Other",102.875
+25999,Massachusetts (Nonmetropolitan Portion),1,RPPs: All items,98.641
+25999,Massachusetts (Nonmetropolitan Portion),2,"  RPPs: Goods",97.015
+25999,Massachusetts (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",90.587
+25999,Massachusetts (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",158.779
+25999,Massachusetts (Nonmetropolitan Portion),5,"  RPPs: Services: Other",101.197
+26998,Michigan (Metropolitan Portion),1,RPPs: All items,97.605
+26998,Michigan (Metropolitan Portion),2,"  RPPs: Goods",96.394
+26998,Michigan (Metropolitan Portion),3,"  RPPs: Services: Housing",88.173
+26998,Michigan (Metropolitan Portion),4,"  RPPs: Services: Utilities",101.524
+26998,Michigan (Metropolitan Portion),5,"  RPPs: Services: Other",101.171
+26999,Michigan (Nonmetropolitan Portion),1,RPPs: All items,88.972
+26999,Michigan (Nonmetropolitan Portion),2,"  RPPs: Goods",93.711
+26999,Michigan (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",61.329
+26999,Michigan (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",93.494
+26999,Michigan (Nonmetropolitan Portion),5,"  RPPs: Services: Other",99.561
+27998,Minnesota (Metropolitan Portion),1,RPPs: All items,102.110
+27998,Minnesota (Metropolitan Portion),2,"  RPPs: Goods",101.743
+27998,Minnesota (Metropolitan Portion),3,"  RPPs: Services: Housing",103.978
+27998,Minnesota (Metropolitan Portion),4,"  RPPs: Services: Utilities",92.169
+27998,Minnesota (Metropolitan Portion),5,"  RPPs: Services: Other",102.221
+27999,Minnesota (Nonmetropolitan Portion),1,RPPs: All items,85.852
+27999,Minnesota (Nonmetropolitan Portion),2,"  RPPs: Goods",95.516
+27999,Minnesota (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",58.424
+27999,Minnesota (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",87.009
+27999,Minnesota (Nonmetropolitan Portion),5,"  RPPs: Services: Other",92.319
+28998,Mississippi (Metropolitan Portion),1,RPPs: All items,89.977
+28998,Mississippi (Metropolitan Portion),2,"  RPPs: Goods",96.219
+28998,Mississippi (Metropolitan Portion),3,"  RPPs: Services: Housing",68.026
+28998,Mississippi (Metropolitan Portion),4,"  RPPs: Services: Utilities",77.772
+28998,Mississippi (Metropolitan Portion),5,"  RPPs: Services: Other",96.090
+28999,Mississippi (Nonmetropolitan Portion),1,RPPs: All items,83.648
+28999,Mississippi (Nonmetropolitan Portion),2,"  RPPs: Goods",96.219
+28999,Mississippi (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",45.861
+28999,Mississippi (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",79.067
+28999,Mississippi (Nonmetropolitan Portion),5,"  RPPs: Services: Other",96.090
+29998,Missouri (Metropolitan Portion),1,RPPs: All items,92.621
+29998,Missouri (Metropolitan Portion),2,"  RPPs: Goods",96.813
+29998,Missouri (Metropolitan Portion),3,"  RPPs: Services: Housing",77.005
+29998,Missouri (Metropolitan Portion),4,"  RPPs: Services: Utilities",77.830
+29998,Missouri (Metropolitan Portion),5,"  RPPs: Services: Other",95.669
+29999,Missouri (Nonmetropolitan Portion),1,RPPs: All items,83.914
+29999,Missouri (Nonmetropolitan Portion),2,"  RPPs: Goods",94.175
+29999,Missouri (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",50.260
+29999,Missouri (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",85.374
+29999,Missouri (Nonmetropolitan Portion),5,"  RPPs: Services: Other",93.099
+30998,Montana (Metropolitan Portion),1,RPPs: All items,97.057
+30998,Montana (Metropolitan Portion),2,"  RPPs: Goods",96.006
+30998,Montana (Metropolitan Portion),3,"  RPPs: Services: Housing",98.407
+30998,Montana (Metropolitan Portion),4,"  RPPs: Services: Utilities",72.721
+30998,Montana (Metropolitan Portion),5,"  RPPs: Services: Other",98.715
+30999,Montana (Nonmetropolitan Portion),1,RPPs: All items,91.618
+30999,Montana (Nonmetropolitan Portion),2,"  RPPs: Goods",96.006
+30999,Montana (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",71.202
+30999,Montana (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",71.705
+30999,Montana (Nonmetropolitan Portion),5,"  RPPs: Services: Other",98.715
+31998,Nebraska (Metropolitan Portion),1,RPPs: All items,91.922
+31998,Nebraska (Metropolitan Portion),2,"  RPPs: Goods",94.101
+31998,Nebraska (Metropolitan Portion),3,"  RPPs: Services: Housing",86.458
+31998,Nebraska (Metropolitan Portion),4,"  RPPs: Services: Utilities",75.915
+31998,Nebraska (Metropolitan Portion),5,"  RPPs: Services: Other",92.980
+31999,Nebraska (Nonmetropolitan Portion),1,RPPs: All items,86.324
+31999,Nebraska (Nonmetropolitan Portion),2,"  RPPs: Goods",94.101
+31999,Nebraska (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",55.460
+31999,Nebraska (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",75.077
+31999,Nebraska (Nonmetropolitan Portion),5,"  RPPs: Services: Other",92.980
+32998,Nevada (Metropolitan Portion),1,RPPs: All items,100.350
+32998,Nevada (Metropolitan Portion),2,"  RPPs: Goods",96.271
+32998,Nevada (Metropolitan Portion),3,"  RPPs: Services: Housing",116.833
+32998,Nevada (Metropolitan Portion),4,"  RPPs: Services: Utilities",90.429
+32998,Nevada (Metropolitan Portion),5,"  RPPs: Services: Other",98.744
+32999,Nevada (Nonmetropolitan Portion),1,RPPs: All items,94.819
+32999,Nevada (Nonmetropolitan Portion),2,"  RPPs: Goods",96.271
+32999,Nevada (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",82.142
+32999,Nevada (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",91.575
+32999,Nevada (Nonmetropolitan Portion),5,"  RPPs: Services: Other",98.744
+33998,New Hampshire (Metropolitan Portion),1,RPPs: All items,106.210
+33998,New Hampshire (Metropolitan Portion),2,"  RPPs: Goods",99.050
+33998,New Hampshire (Metropolitan Portion),3,"  RPPs: Services: Housing",131.787
+33998,New Hampshire (Metropolitan Portion),4,"  RPPs: Services: Utilities",133.535
+33998,New Hampshire (Metropolitan Portion),5,"  RPPs: Services: Other",103.980
+33999,New Hampshire (Nonmetropolitan Portion),1,RPPs: All items,100.512
+33999,New Hampshire (Nonmetropolitan Portion),2,"  RPPs: Goods",97.687
+33999,New Hampshire (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",93.571
+33999,New Hampshire (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",133.895
+33999,New Hampshire (Nonmetropolitan Portion),5,"  RPPs: Services: Other",103.687
+34998,New Jersey (Metropolitan Portion),1,RPPs: All items,108.805
+34998,New Jersey (Metropolitan Portion),2,"  RPPs: Goods",107.066
+34998,New Jersey (Metropolitan Portion),3,"  RPPs: Services: Housing",134.292
+34998,New Jersey (Metropolitan Portion),4,"  RPPs: Services: Utilities",114.187
+34998,New Jersey (Metropolitan Portion),5,"  RPPs: Services: Other",103.529
+34999,New Jersey (Nonmetropolitan Portion),1,RPPs: All items,0.000
+34999,New Jersey (Nonmetropolitan Portion),2,"  RPPs: Goods",0.000
+34999,New Jersey (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",0.000
+34999,New Jersey (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",0.000
+34999,New Jersey (Nonmetropolitan Portion),5,"  RPPs: Services: Other",0.000
+35998,New Mexico (Metropolitan Portion),1,RPPs: All items,94.826
+35998,New Mexico (Metropolitan Portion),2,"  RPPs: Goods",96.144
+35998,New Mexico (Metropolitan Portion),3,"  RPPs: Services: Housing",85.478
+35998,New Mexico (Metropolitan Portion),4,"  RPPs: Services: Utilities",77.707
+35998,New Mexico (Metropolitan Portion),5,"  RPPs: Services: Other",98.540
+35999,New Mexico (Nonmetropolitan Portion),1,RPPs: All items,85.898
+35999,New Mexico (Nonmetropolitan Portion),2,"  RPPs: Goods",96.144
+35999,New Mexico (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",53.169
+35999,New Mexico (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",78.260
+35999,New Mexico (Nonmetropolitan Portion),5,"  RPPs: Services: Other",98.540
+36998,New York (Metropolitan Portion),1,RPPs: All items,109.023
+36998,New York (Metropolitan Portion),2,"  RPPs: Goods",107.716
+36998,New York (Metropolitan Portion),3,"  RPPs: Services: Housing",128.568
+36998,New York (Metropolitan Portion),4,"  RPPs: Services: Utilities",134.581
+36998,New York (Metropolitan Portion),5,"  RPPs: Services: Other",104.449
+36999,New York (Nonmetropolitan Portion),1,RPPs: All items,91.613
+36999,New York (Nonmetropolitan Portion),2,"  RPPs: Goods",99.693
+36999,New York (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",64.951
+36999,New York (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",131.479
+36999,New York (Nonmetropolitan Portion),5,"  RPPs: Services: Other",97.754
+37998,North Carolina (Metropolitan Portion),1,RPPs: All items,95.650
+37998,North Carolina (Metropolitan Portion),2,"  RPPs: Goods",96.621
+37998,North Carolina (Metropolitan Portion),3,"  RPPs: Services: Housing",87.918
+37998,North Carolina (Metropolitan Portion),4,"  RPPs: Services: Utilities",88.704
+37998,North Carolina (Metropolitan Portion),5,"  RPPs: Services: Other",98.186
+37999,North Carolina (Nonmetropolitan Portion),1,RPPs: All items,88.410
+37999,North Carolina (Nonmetropolitan Portion),2,"  RPPs: Goods",96.621
+37999,North Carolina (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",59.625
+37999,North Carolina (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",88.310
+37999,North Carolina (Nonmetropolitan Portion),5,"  RPPs: Services: Other",98.186
+38998,North Dakota (Metropolitan Portion),1,RPPs: All items,90.054
+38998,North Dakota (Metropolitan Portion),2,"  RPPs: Goods",95.701
+38998,North Dakota (Metropolitan Portion),3,"  RPPs: Services: Housing",77.240
+38998,North Dakota (Metropolitan Portion),4,"  RPPs: Services: Utilities",74.189
+38998,North Dakota (Metropolitan Portion),5,"  RPPs: Services: Other",91.158
+38999,North Dakota (Nonmetropolitan Portion),1,RPPs: All items,87.273
+38999,North Dakota (Nonmetropolitan Portion),2,"  RPPs: Goods",95.701
+38999,North Dakota (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",63.774
+38999,North Dakota (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",73.017
+38999,North Dakota (Nonmetropolitan Portion),5,"  RPPs: Services: Other",91.158
+39998,Ohio (Metropolitan Portion),1,RPPs: All items,93.612
+39998,Ohio (Metropolitan Portion),2,"  RPPs: Goods",93.671
+39998,Ohio (Metropolitan Portion),3,"  RPPs: Services: Housing",77.325
+39998,Ohio (Metropolitan Portion),4,"  RPPs: Services: Utilities",95.643
+39998,Ohio (Metropolitan Portion),5,"  RPPs: Services: Other",98.947
+39999,Ohio (Nonmetropolitan Portion),1,RPPs: All items,88.312
+39999,Ohio (Nonmetropolitan Portion),2,"  RPPs: Goods",93.664
+39999,Ohio (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",54.325
+39999,Ohio (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",96.629
+39999,Ohio (Nonmetropolitan Portion),5,"  RPPs: Services: Other",98.946
+40998,Oklahoma (Metropolitan Portion),1,RPPs: All items,89.590
+40998,Oklahoma (Metropolitan Portion),2,"  RPPs: Goods",93.778
+40998,Oklahoma (Metropolitan Portion),3,"  RPPs: Services: Housing",70.102
+40998,Oklahoma (Metropolitan Portion),4,"  RPPs: Services: Utilities",73.923
+40998,Oklahoma (Metropolitan Portion),5,"  RPPs: Services: Other",95.458
+40999,Oklahoma (Nonmetropolitan Portion),1,RPPs: All items,83.576
+40999,Oklahoma (Nonmetropolitan Portion),2,"  RPPs: Goods",93.778
+40999,Oklahoma (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",48.278
+40999,Oklahoma (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",73.795
+40999,Oklahoma (Nonmetropolitan Portion),5,"  RPPs: Services: Other",95.458
+41998,Oregon (Metropolitan Portion),1,RPPs: All items,104.314
+41998,Oregon (Metropolitan Portion),2,"  RPPs: Goods",105.261
+41998,Oregon (Metropolitan Portion),3,"  RPPs: Services: Housing",115.295
+41998,Oregon (Metropolitan Portion),4,"  RPPs: Services: Utilities",107.343
+41998,Oregon (Metropolitan Portion),5,"  RPPs: Services: Other",100.298
+41999,Oregon (Nonmetropolitan Portion),1,RPPs: All items,97.165
+41999,Oregon (Nonmetropolitan Portion),2,"  RPPs: Goods",105.261
+41999,Oregon (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",77.224
+41999,Oregon (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",105.359
+41999,Oregon (Nonmetropolitan Portion),5,"  RPPs: Services: Other",100.298
+42998,Pennsylvania (Metropolitan Portion),1,RPPs: All items,98.499
+42998,Pennsylvania (Metropolitan Portion),2,"  RPPs: Goods",99.223
+42998,Pennsylvania (Metropolitan Portion),3,"  RPPs: Services: Housing",90.190
+42998,Pennsylvania (Metropolitan Portion),4,"  RPPs: Services: Utilities",109.808
+42998,Pennsylvania (Metropolitan Portion),5,"  RPPs: Services: Other",99.956
+42999,Pennsylvania (Nonmetropolitan Portion),1,RPPs: All items,90.331
+42999,Pennsylvania (Nonmetropolitan Portion),2,"  RPPs: Goods",100.527
+42999,Pennsylvania (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",57.251
+42999,Pennsylvania (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",106.062
+42999,Pennsylvania (Nonmetropolitan Portion),5,"  RPPs: Services: Other",98.131
+44998,Rhode Island (Metropolitan Portion),1,RPPs: All items,102.280
+44998,Rhode Island (Metropolitan Portion),2,"  RPPs: Goods",97.165
+44998,Rhode Island (Metropolitan Portion),3,"  RPPs: Services: Housing",105.620
+44998,Rhode Island (Metropolitan Portion),4,"  RPPs: Services: Utilities",146.653
+44998,Rhode Island (Metropolitan Portion),5,"  RPPs: Services: Other",102.840
+44999,Rhode Island (Nonmetropolitan Portion),1,RPPs: All items,0.000
+44999,Rhode Island (Nonmetropolitan Portion),2,"  RPPs: Goods",0.000
+44999,Rhode Island (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",0.000
+44999,Rhode Island (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",0.000
+44999,Rhode Island (Nonmetropolitan Portion),5,"  RPPs: Services: Other",0.000
+45998,South Carolina (Metropolitan Portion),1,RPPs: All items,94.811
+45998,South Carolina (Metropolitan Portion),2,"  RPPs: Goods",96.339
+45998,South Carolina (Metropolitan Portion),3,"  RPPs: Services: Housing",85.207
+45998,South Carolina (Metropolitan Portion),4,"  RPPs: Services: Utilities",88.363
+45998,South Carolina (Metropolitan Portion),5,"  RPPs: Services: Other",98.284
+45999,South Carolina (Nonmetropolitan Portion),1,RPPs: All items,86.182
+45999,South Carolina (Nonmetropolitan Portion),2,"  RPPs: Goods",96.339
+45999,South Carolina (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",54.942
+45999,South Carolina (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",87.950
+45999,South Carolina (Nonmetropolitan Portion),5,"  RPPs: Services: Other",98.284
+46998,South Dakota (Metropolitan Portion),1,RPPs: All items,90.207
+46998,South Dakota (Metropolitan Portion),2,"  RPPs: Goods",95.473
+46998,South Dakota (Metropolitan Portion),3,"  RPPs: Services: Housing",76.033
+46998,South Dakota (Metropolitan Portion),4,"  RPPs: Services: Utilities",80.014
+46998,South Dakota (Metropolitan Portion),5,"  RPPs: Services: Other",91.899
+46999,South Dakota (Nonmetropolitan Portion),1,RPPs: All items,86.681
+46999,South Dakota (Nonmetropolitan Portion),2,"  RPPs: Goods",95.473
+46999,South Dakota (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",59.140
+46999,South Dakota (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",79.339
+46999,South Dakota (Nonmetropolitan Portion),5,"  RPPs: Services: Other",91.899
+47998,Tennessee (Metropolitan Portion),1,RPPs: All items,93.397
+47998,Tennessee (Metropolitan Portion),2,"  RPPs: Goods",96.247
+47998,Tennessee (Metropolitan Portion),3,"  RPPs: Services: Housing",86.801
+47998,Tennessee (Metropolitan Portion),4,"  RPPs: Services: Utilities",72.111
+47998,Tennessee (Metropolitan Portion),5,"  RPPs: Services: Other",95.142
+47999,Tennessee (Nonmetropolitan Portion),1,RPPs: All items,84.944
+47999,Tennessee (Nonmetropolitan Portion),2,"  RPPs: Goods",96.247
+47999,Tennessee (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",53.930
+47999,Tennessee (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",72.242
+47999,Tennessee (Nonmetropolitan Portion),5,"  RPPs: Services: Other",95.142
+48998,Texas (Metropolitan Portion),1,RPPs: All items,97.930
+48998,Texas (Metropolitan Portion),2,"  RPPs: Goods",98.448
+48998,Texas (Metropolitan Portion),3,"  RPPs: Services: Housing",100.972
+48998,Texas (Metropolitan Portion),4,"  RPPs: Services: Utilities",88.008
+48998,Texas (Metropolitan Portion),5,"  RPPs: Services: Other",97.145
+48999,Texas (Nonmetropolitan Portion),1,RPPs: All items,87.835
+48999,Texas (Nonmetropolitan Portion),2,"  RPPs: Goods",93.983
+48999,Texas (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",62.222
+48999,Texas (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",83.331
+48999,Texas (Nonmetropolitan Portion),5,"  RPPs: Services: Other",96.331
+49998,Utah (Metropolitan Portion),1,RPPs: All items,99.721
+49998,Utah (Metropolitan Portion),2,"  RPPs: Goods",96.446
+49998,Utah (Metropolitan Portion),3,"  RPPs: Services: Housing",113.997
+49998,Utah (Metropolitan Portion),4,"  RPPs: Services: Utilities",78.756
+49998,Utah (Metropolitan Portion),5,"  RPPs: Services: Other",98.959
+49999,Utah (Nonmetropolitan Portion),1,RPPs: All items,93.075
+49999,Utah (Nonmetropolitan Portion),2,"  RPPs: Goods",96.446
+49999,Utah (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",76.882
+49999,Utah (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",78.641
+49999,Utah (Nonmetropolitan Portion),5,"  RPPs: Services: Other",98.959
+50998,Vermont (Metropolitan Portion),1,RPPs: All items,100.949
+50998,Vermont (Metropolitan Portion),2,"  RPPs: Goods",97.274
+50998,Vermont (Metropolitan Portion),3,"  RPPs: Services: Housing",103.842
+50998,Vermont (Metropolitan Portion),4,"  RPPs: Services: Utilities",125.550
+50998,Vermont (Metropolitan Portion),5,"  RPPs: Services: Other",101.586
+50999,Vermont (Nonmetropolitan Portion),1,RPPs: All items,96.350
+50999,Vermont (Nonmetropolitan Portion),2,"  RPPs: Goods",97.274
+50999,Vermont (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",78.977
+50999,Vermont (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",125.980
+50999,Vermont (Nonmetropolitan Portion),5,"  RPPs: Services: Other",101.586
+51998,Virginia (Metropolitan Portion),1,RPPs: All items,102.567
+51998,Virginia (Metropolitan Portion),2,"  RPPs: Goods",100.735
+51998,Virginia (Metropolitan Portion),3,"  RPPs: Services: Housing",115.748
+51998,Virginia (Metropolitan Portion),4,"  RPPs: Services: Utilities",92.736
+51998,Virginia (Metropolitan Portion),5,"  RPPs: Services: Other",100.395
+51999,Virginia (Nonmetropolitan Portion),1,RPPs: All items,88.361
+51999,Virginia (Nonmetropolitan Portion),2,"  RPPs: Goods",96.773
+51999,Virginia (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",59.329
+51999,Virginia (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",88.635
+51999,Virginia (Nonmetropolitan Portion),5,"  RPPs: Services: Other",98.612
+53998,Washington (Metropolitan Portion),1,RPPs: All items,107.926
+53998,Washington (Metropolitan Portion),2,"  RPPs: Goods",104.303
+53998,Washington (Metropolitan Portion),3,"  RPPs: Services: Housing",131.999
+53998,Washington (Metropolitan Portion),4,"  RPPs: Services: Utilities",93.181
+53998,Washington (Metropolitan Portion),5,"  RPPs: Services: Other",104.259
+53999,Washington (Nonmetropolitan Portion),1,RPPs: All items,97.377
+53999,Washington (Nonmetropolitan Portion),2,"  RPPs: Goods",105.028
+53999,Washington (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",84.106
+53999,Washington (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",90.076
+53999,Washington (Nonmetropolitan Portion),5,"  RPPs: Services: Other",99.472
+54998,West Virginia (Metropolitan Portion),1,RPPs: All items,90.940
+54998,West Virginia (Metropolitan Portion),2,"  RPPs: Goods",96.690
+54998,West Virginia (Metropolitan Portion),3,"  RPPs: Services: Housing",58.555
+54998,West Virginia (Metropolitan Portion),4,"  RPPs: Services: Utilities",92.286
+54998,West Virginia (Metropolitan Portion),5,"  RPPs: Services: Other",100.014
+54999,West Virginia (Nonmetropolitan Portion),1,RPPs: All items,87.028
+54999,West Virginia (Nonmetropolitan Portion),2,"  RPPs: Goods",96.270
+54999,West Virginia (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",47.950
+54999,West Virginia (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",92.169
+54999,West Virginia (Nonmetropolitan Portion),5,"  RPPs: Services: Other",99.806
+55998,Wisconsin (Metropolitan Portion),1,RPPs: All items,95.642
+55998,Wisconsin (Metropolitan Portion),2,"  RPPs: Goods",94.477
+55998,Wisconsin (Metropolitan Portion),3,"  RPPs: Services: Housing",87.028
+55998,Wisconsin (Metropolitan Portion),4,"  RPPs: Services: Utilities",90.560
+55998,Wisconsin (Metropolitan Portion),5,"  RPPs: Services: Other",99.529
+55999,Wisconsin (Nonmetropolitan Portion),1,RPPs: All items,89.577
+55999,Wisconsin (Nonmetropolitan Portion),2,"  RPPs: Goods",93.787
+55999,Wisconsin (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",62.684
+55999,Wisconsin (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",88.015
+55999,Wisconsin (Nonmetropolitan Portion),5,"  RPPs: Services: Other",99.411
+56998,Wyoming (Metropolitan Portion),1,RPPs: All items,95.328
+56998,Wyoming (Metropolitan Portion),2,"  RPPs: Goods",95.368
+56998,Wyoming (Metropolitan Portion),3,"  RPPs: Services: Housing",82.821
+56998,Wyoming (Metropolitan Portion),4,"  RPPs: Services: Utilities",78.354
+56998,Wyoming (Metropolitan Portion),5,"  RPPs: Services: Other",100.428
+56999,Wyoming (Nonmetropolitan Portion),1,RPPs: All items,91.622
+56999,Wyoming (Nonmetropolitan Portion),2,"  RPPs: Goods",95.368
+56999,Wyoming (Nonmetropolitan Portion),3,"  RPPs: Services: Housing",67.287
+56999,Wyoming (Nonmetropolitan Portion),4,"  RPPs: Services: Utilities",78.453
+56999,Wyoming (Nonmetropolitan Portion),5,"  RPPs: Services: Other",100.428
+
+Legend/Footnotes
+"  Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget (OMB) bulletin no. 23-01 issued July 21, 2023."
+"  Last updated: February 19, 2026-- new statistics for 2024; revised statistics for 2008-2023."
